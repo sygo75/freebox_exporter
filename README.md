@@ -1,3 +1,5 @@
+[![Go](https://github.com/sygo75/freebox_exporter/actions/workflows/go.yml/badge.svg?branch=master)](https://github.com/sygo75/freebox_exporter/actions/workflows/go.yml)
+
 # freebox_exporter
 
 A Prometheus exporter for Freebox stats
